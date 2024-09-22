@@ -1,0 +1,4 @@
+*.tar.gz
+capsule/
+root_fs/
+jailbreak/chroot_jail/
