@@ -1,3 +1,8 @@
+#
+# Created on Sat Sep 21 2024
+#
+# Author: Varsha Natarajan ( varshanatarajan311298@gmail.com )
+#
 #!/bin/sh
 
 # Setup network namespaces for HOST - Use the same script to create network connections in same host

@@ -1,3 +1,9 @@
+#
+# Created on Sat Sep 21 2024
+#
+# Author: Varsha Natarajan ( varshanatarajan311298@gmail.com )
+#
+
 #!/bin/sh
 
 ROOT_FS="root_fs"
